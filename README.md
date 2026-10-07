@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/playstation/linda-cube-again)**.
+
 Traducción al **español de España** de *Linda³ Again* (リンダキューブ アゲイン, PlayStation, 1997),
 el RPG de captura de animales de Alfa System y Shoji Masuda, que nunca salió de Japón.
 
